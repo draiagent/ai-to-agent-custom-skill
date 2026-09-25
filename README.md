@@ -174,7 +174,7 @@ Context-First 位於更上層，避免「為反骨而反骨」。
 ## 專案結構
 
 ```text
-context-first-human-agent/
+ai-to-agent-custom-skill/
 ├─ README.md
 ├─ SKILL.md
 ├─ CHANGELOG.md
